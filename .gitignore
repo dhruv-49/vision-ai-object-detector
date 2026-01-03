@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+vision_ai/
+.env
+
+# IDE files
+.idea/
+
+# Model weights (DO NOT PUSH)
+weights/
+*.pth
+
+GroundingDINO/
