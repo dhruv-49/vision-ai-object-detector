@@ -2,6 +2,7 @@
 
 A realtime object detection system built using GroundingDINO and OpenCV, optimized to run on CPU-only environments without requiring any paid APIs or cloud services.
 
+
 This project performs prompt-based object detection directly from a webcam feed, allowing users to specify objects in natural language (e.g., "person, dog, mobile phone").
 
 🛠️ Tech Stack:
